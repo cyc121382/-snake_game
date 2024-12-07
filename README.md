@@ -1,6 +1,6 @@
 # -snake_game
 一个开源的小游戏，分享给大家
-
+运行环境：Python 3.10.11
 运行游戏: 打开终端或命令提示符，导航到保存 snake_game.py 的目录，然后运行：python snake_game.py
 
 控制蛇的移动:
